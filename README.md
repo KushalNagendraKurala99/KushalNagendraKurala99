@@ -16,9 +16,9 @@ I build full-stack applications spanning backend development, database design, a
 
 ## 🚀 Featured Projects
 
-- **[E-Commerce Web Application](https://github.com/your-username/your-repo)** — Full-stack e-commerce app (Spring Boot + Angular) with customer, product, order, and delivery date-slot management, built during my internship at Anudip Foundation.
-- **[AI-Assisted Electronics E-Commerce Database](https://github.com/your-username/your-repo)** — Relational database design with 9+ tables supporting customer-to-seller workflows, CRUD operations, and seller approval logic.
-- **[CPU Scheduling Algorithm Simulator](https://github.com/your-username/your-repo)** — Java simulator for FCFS, SJF, Round Robin, and Priority Scheduling with Gantt chart output and turnaround/waiting time metrics.
+- **[E-Commerce Web Application](https://github.com/KushalNagendraKurala99/Ecommerce_Website)** — Full-stack e-commerce app (Spring Boot + Angular) with customer, product, order, and delivery date-slot management, built during my internship at Anudip Foundation.
+- **[AI-Assisted Electronics E-Commerce Database](https://github.com/KushalNagendraKurala99/AI_Assisted_Ecommerce_Website_Java)** — Relational database design with 9+ tables supporting customer-to-seller workflows, CRUD operations, and seller approval logic.
+- **[CPU Scheduling Algorithm Simulator](https://github.com/KushalNagendraKurala99/SchedulingAlgorithms)** — Java simulator for FCFS, SJF, Round Robin, and Priority Scheduling with Gantt chart output and turnaround/waiting time metrics.
 
 ## 🎓 Education
 
