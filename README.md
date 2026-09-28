@@ -55,5 +55,5 @@ Bachelor of Technology in Electronics and Communication Engineering — Narsimha
 ## 📫 Reach Me
 
 - Email: kuralakushal174@gmail.com
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com)
+- LinkedIn: [linkedin.com]([https://linkedin.com](https://www.linkedin.com/in/kushal-nagendra-kurala-481855235/))
 - Phone: 913-951-7849
