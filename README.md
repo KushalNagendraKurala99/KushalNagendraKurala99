@@ -83,8 +83,8 @@ Java implementation of **FCFS, SJF, Round Robin, and Priority Scheduling**, with
 
 ## 📚 Training & Coursework
 
-- **Java** — Udemy (May 2024)
-- **Advanced Program in Web Designing** — Anudip Foundation (Mar 2022)
+- **Java Masterclass** — Udemy 
+- **Advanced Program in Web Designing** — Anudip Foundation
 - **Graduate coursework:** Data Structures & Algorithms, Advanced Database Systems, Advanced Operating Systems, Introduction to Cloud Computing (AWS Academy Cloud Foundations)
 
 ## 🤝 Connect With Me
