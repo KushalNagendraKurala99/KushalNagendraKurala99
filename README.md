@@ -1,59 +1,96 @@
 # Hi, I'm Kushal Nagendra Kurala 👋
 
-Java Full Stack Developer | MS in Computer Science @ University of Central Missouri
+### Software Engineer | Java Full Stack Developer | Cloud & DevOps
 
-I build full-stack applications spanning backend development, database design, and REST/GraphQL APIs, and I've recently been integrating local LLMs (Ollama) into data-driven apps. Seeking entry-level Java Full Stack Developer / Software Engineer roles.
+📍 United States &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/kushal-nagendra-kurala-481855235/) &nbsp;|&nbsp; [Email](mailto:kuralakushal174@gmail.com)
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-**Languages:** Java, Python, JavaScript (Node.js), SQL, HTML, CSS
+I'm a **Software Engineer with 3+ years of experience** developing and supporting full-stack, cloud-based applications in banking, e-commerce, and enterprise environments. I hold an **M.S. in Computer Science from the University of Central Missouri**.
 
-**Backend & APIs:** Spring Boot, Flask, Express.js, REST APIs, GraphQL (Apollo Server, Ariadne, `@neo4j/graphql`)
+My work spans **Java, Spring Boot, Angular, Node.js, REST APIs, microservices, AWS infrastructure, CI/CD, and production incident troubleshooting**. I also enjoy building projects with **GraphQL, relational/NoSQL databases, and local LLMs using Ollama**.
 
-**Frontend:** Angular, Streamlit, HTML/CSS/JavaScript
+🎯 **Career interests:** Java Full Stack Development, Backend Engineering, Cloud-Native Applications, and Software Engineering.
 
-**Databases:** MySQL, MongoDB (Atlas), Neo4j, SQLite
+## 💼 Professional Experience
 
-**AI / LLM:** Ollama (Mistral, Llama 3), natural-language-to-query translation
+**Software Engineer (Contract) — Fifth Third Bank** | Jun 2025 – Present
+- Developed and supported **Java/Spring Boot and Node.js REST services** and **Angular/TypeScript** interfaces, including secure API workflows with Spring Security.
+- Worked with **AWS Lambda, API Gateway, ECS, RDS, and DynamoDB**, and supported automated builds, infrastructure provisioning, and deployments using **Terraform, Jenkins, Docker, and Maven**.
+- Supported event-driven integrations using **Kafka and AWS SQS/SNS**, testing with **JUnit/Mockito**, and production troubleshooting with **Splunk and Dynatrace**, including banking migration and service-recovery work.
 
-**Tools:** Git, GitHub, Docker, Postman, Thunder Client, MySQL Workbench, MongoDB Compass
+**Software Engineer — Wipro** | Aug 2022 – Jul 2024
+- Supported **Flipkart** distributed e-commerce systems, cloud environments, and production releases using **AWS, Kubernetes, Linux, GitOps, and CI/CD** practices.
+- Worked on **Bajaj Auto** enterprise web applications and integrations using **Java, Node.js, Angular, JavaScript, REST APIs, and MySQL**; investigated incidents through logs and root-cause analysis.
+
+**Java Full Stack & Web Design Programming Intern — Anudip Foundation** | Dec 2021 – Apr 2022
+- Built **Java/Spring Boot RESTful CRUD APIs** with JPA and MySQL, and contributed to a full-stack e-commerce capstone project.
+
+## 🛠️ Technical Skills
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Java, Python, JavaScript, TypeScript, SQL, HTML, CSS |
+| **Backend & APIs** | Spring Boot, Spring Security, JPA, Node.js, Express.js, Flask, REST APIs, GraphQL, Microservices |
+| **Frontend** | Angular, Streamlit, HTML, CSS, JavaScript |
+| **Databases** | MySQL, MongoDB Atlas, Neo4j, SQLite |
+| **Cloud & DevOps** | AWS (Lambda, API Gateway, ECS, RDS, DynamoDB, EC2, IAM, VPC), Kubernetes, Terraform, Docker, Jenkins, GitOps, JFrog Artifactory |
+| **Messaging** | Apache Kafka, AWS SQS, AWS SNS |
+| **Testing & Monitoring** | JUnit, Mockito, Postman, Load Testing, Splunk, Dynatrace, Root Cause Analysis |
+| **Tools & AI** | Git, GitHub, Maven, Linux, Ollama (Mistral, Llama 3) |
 
 ## 🚀 Featured Projects
 
-### Full-Stack & Database Systems
+### [E-Commerce Web Application](https://github.com/KushalNagendraKurala99/Ecommerce_Website)
+Full-stack e-commerce application developed during my Anudip Foundation internship, with customer, product, order, and delivery date-slot management.
 
-- **[E-Commerce Web Application](https://github.com/KushalNagendraKurala99/Ecommerce_Website)** — Full-stack e-commerce app with customer, product, order, and delivery date-slot management, built during my internship at Anudip Foundation.
-  `Spring Boot` `Angular` `MySQL` `REST APIs`
+**Tech:** `Java` `Spring Boot` `Angular` `MySQL` `REST APIs`
 
-- **[ShopAI: Multi-Role E-Commerce Platform](https://github.com/KushalNagendraKurala99/AI_Assisted_Ecommerce_Website_Java)** — Marketplace with customer, seller, and admin roles on a normalized 9+ table MySQL schema. Supports serialized unit tracking at checkout, order/status history, seller approval and suspension, and an AI assistant that answers natural-language questions about store data.
-  `Python` `Flask` `MySQL` `Ollama (Mistral)` `HTML/CSS/JS`
+### [ShopAI: Multi-Role E-Commerce Platform](https://github.com/KushalNagendraKurala99/AI_Assisted_Ecommerce_Website_Java)
+E-commerce platform for **customers, sellers, and admins**, backed by a normalized **9+ table MySQL schema**. Includes seller approval workflows, item-level order tracking and history, and a local LLM assistant for natural-language store queries.
 
-- **[Expense Management System](https://github.com/KushalNagendraKurala99/expense-management-system)** — Multi-user expense tracker with registration/login and full transaction CRUD. Natural-language commands like "I spent 20 on groceries" are parsed by a local LLM into structured actions.
-  `Python` `Streamlit` `SQLite` `Ollama (Llama 3)` `Pandas`
+**Tech:** `Python` `Flask` `MySQL` `Ollama (Mistral)` `HTML/CSS/JavaScript`
 
-### GraphQL & NoSQL Projects
+### [Expense Management System](https://github.com/KushalNagendraKurala99/expense-management-system)
+Multi-user expense tracker with authentication, transaction CRUD, and natural-language commands that turn everyday expense descriptions into structured actions.
 
-- **[Movie Graph Explorer](https://github.com/KushalNagendraKurala99/movie-graph-explorer)** — GraphQL API over a Neo4j graph of IMDB movie data (CSV import pipeline included), with a Streamlit frontend for natural-language querying via a local LLM.
-  `Node.js` `Apollo Server` `@neo4j/graphql` `Neo4j` `Streamlit` `Ollama`
+**Tech:** `Python` `Streamlit` `SQLite` `Ollama (Llama 3)` `Pandas`
 
-- **[Netflix GraphQL Chatbot](https://github.com/KushalNagendraKurala99/netflix-graphql-chatbot)** — CRUD application for a Netflix shows dataset driven by a chat interface. Plain-English commands are translated into GraphQL queries and mutations and executed against an Apollo backend.
-  `Node.js` `Express` `Apollo Server` `GraphQL` `Streamlit`
+### [Movie Graph Explorer](https://github.com/KushalNagendraKurala99/movie-graph-explorer)
+GraphQL application for exploring an **IMDb movie graph in Neo4j**, with a CSV import pipeline and a Streamlit interface for natural-language queries.
 
-- **[Star Wars GraphQL & NLP Explorer](https://github.com/KushalNagendraKurala99/PROGRAMMING_ASSIGNMENT1)** — CRUD over MongoDB Atlas collections (characters, species) through a Flask/Ariadne GraphQL API, plus an NLP endpoint that turns natural-language commands into MongoDB operations. Streamlit frontend.
-  `Python` `Flask` `Ariadne` `GraphQL` `MongoDB Atlas` `Streamlit` `Ollama`
+**Tech:** `Node.js` `Apollo Server` `Neo4j` `GraphQL` `Streamlit` `Ollama`
 
-### Core Java
+### [Netflix GraphQL Chatbot](https://github.com/KushalNagendraKurala99/netflix-graphql-chatbot)
+Chat-driven application that translates plain-English requests into **GraphQL queries and mutations** to view and manage Netflix show records.
 
-- **[CPU Scheduling Algorithm Simulator](https://github.com/KushalNagendraKurala99/SchedulingAlgorithms)** — Java simulator for FCFS, SJF, Round Robin, and Priority Scheduling with Gantt chart output and turnaround/waiting time metrics.
-  `Java`
+**Tech:** `Node.js` `Express.js` `Apollo Server` `GraphQL` `Streamlit`
+
+### [Star Wars GraphQL & NLP Explorer](https://github.com/KushalNagendraKurala99/PROGRAMMING_ASSIGNMENT1)
+GraphQL and natural-language interface for querying and managing Star Wars character and species data stored in MongoDB Atlas.
+
+**Tech:** `Python` `Flask` `Ariadne` `GraphQL` `MongoDB Atlas` `Streamlit` `Ollama`
+
+### [CPU Scheduling Algorithm Simulator](https://github.com/KushalNagendraKurala99/SchedulingAlgorithms)
+Java implementation of **FCFS, SJF, Round Robin, and Priority Scheduling**, with Gantt chart output and waiting/turnaround time metrics.
+
+**Tech:** `Java` `Operating Systems` `Algorithms`
 
 ## 🎓 Education
 
-Master of Science in Computer Science — University of Central Missouri (2024–2026)
-Bachelor of Technology in Electronics and Communication Engineering — Narsimha Reddy Engineering College (2019–2023)
+- **Master of Science in Computer Science** — University of Central Missouri (2024–2026)
+- **Bachelor of Technology in Electronics and Communication Engineering** — Narsimha Reddy Engineering College (2019–2023)
 
-## 📫 Reach Me
+## 📚 Training & Coursework
 
-- Email: kuralakushal174@gmail.com
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/kushal-nagendra-kurala-481855235/)
-- Phone: 913-951-7849
+- **Java** — Udemy (May 2024)
+- **Advanced Program in Web Designing** — Anudip Foundation (Mar 2022)
+- **Graduate coursework:** Data Structures & Algorithms, Advanced Database Systems, Advanced Operating Systems, Introduction to Cloud Computing (AWS Academy Cloud Foundations)
+
+## 🤝 Connect With Me
+
+I'm interested in connecting with developers and engineering teams working on **Java, distributed systems, cloud engineering, and AI-assisted applications**.
+
+- **LinkedIn:** [kushal-nagendra-kurala-481855235](https://www.linkedin.com/in/kushal-nagendra-kurala-481855235/)
+- **Email:** [kuralakushal174@gmail.com](mailto:kuralakushal174@gmail.com)
+- **GitHub:** [KushalNagendraKurala99](https://github.com/KushalNagendraKurala99)
