@@ -1,96 +1,77 @@
 # Hi, I'm Kushal Nagendra Kurala 👋
 
-### Software Engineer | Java Full Stack Developer | Cloud & DevOps
+**Software Engineer | Java Full Stack Developer | Backend & Cloud Engineering**
 
-📍 United States &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/kushal-nagendra-kurala-481855235/) &nbsp;|&nbsp; [Email](mailto:kuralakushal174@gmail.com)
+📍 United States · [LinkedIn](https://www.linkedin.com/in/kushal-nagendra-kurala-481855235/) · [Email](mailto:kuralakushal174@gmail.com)
 
-## 👨‍💻 About Me
+I'm a software engineer with **3+ years of experience** developing and supporting enterprise applications in banking and e-commerce. I hold an **M.S. in Computer Science from the University of Central Missouri**.
 
-I'm a **Software Engineer with 3+ years of experience** developing and supporting full-stack, cloud-based applications in banking, e-commerce, and enterprise environments. I hold an **M.S. in Computer Science from the University of Central Missouri**.
+I work primarily with **Java, Spring Boot, Angular, Node.js, REST APIs, and AWS**, and enjoy exploring **GraphQL, databases, and locally hosted LLMs** to build practical applications.
 
-My work spans **Java, Spring Boot, Angular, Node.js, REST APIs, microservices, AWS infrastructure, CI/CD, and production incident troubleshooting**. I also enjoy building projects with **GraphQL, relational/NoSQL databases, and local LLMs using Ollama**.
+### 🔍 What I Work On
 
-🎯 **Career interests:** Java Full Stack Development, Backend Engineering, Cloud-Native Applications, and Software Engineering.
+- **Full-stack development:** Java/Spring Boot and Node.js services, Angular/TypeScript interfaces, and secure APIs.
+- **Cloud & delivery:** AWS services, Docker, Kubernetes, Terraform, Jenkins, Maven, and CI/CD workflows.
+- **Production engineering:** Debugging application issues, investigating logs and performance, and validating fixes.
+- **Personal projects:** E-commerce platforms, natural-language interfaces, GraphQL applications, and AI-assisted tools.
 
-## 💼 Professional Experience
-
-**Software Engineer (Contract) — Fifth Third Bank** | Jun 2025 – Present
-- Developed and supported **Java/Spring Boot and Node.js REST services** and **Angular/TypeScript** interfaces, including secure API workflows with Spring Security.
-- Worked with **AWS Lambda, API Gateway, ECS, RDS, and DynamoDB**, and supported automated builds, infrastructure provisioning, and deployments using **Terraform, Jenkins, Docker, and Maven**.
-- Supported event-driven integrations using **Kafka and AWS SQS/SNS**, testing with **JUnit/Mockito**, and production troubleshooting with **Splunk and Dynatrace**, including banking migration and service-recovery work.
-
-**Software Engineer — Wipro** | Aug 2022 – Jul 2024
-- Supported **Flipkart** distributed e-commerce systems, cloud environments, and production releases using **AWS, Kubernetes, Linux, GitOps, and CI/CD** practices.
-- Worked on **Bajaj Auto** enterprise web applications and integrations using **Java, Node.js, Angular, JavaScript, REST APIs, and MySQL**; investigated incidents through logs and root-cause analysis.
-
-**Java Full Stack & Web Design Programming Intern — Anudip Foundation** | Dec 2021 – Apr 2022
-- Built **Java/Spring Boot RESTful CRUD APIs** with JPA and MySQL, and contributed to a full-stack e-commerce capstone project.
-
-## 🛠️ Technical Skills
+### 🛠️ Tech Stack
 
 | Area | Technologies |
 | --- | --- |
-| **Languages** | Java, Python, JavaScript, TypeScript, SQL, HTML, CSS |
-| **Backend & APIs** | Spring Boot, Spring Security, JPA, Node.js, Express.js, Flask, REST APIs, GraphQL, Microservices |
-| **Frontend** | Angular, Streamlit, HTML, CSS, JavaScript |
-| **Databases** | MySQL, MongoDB Atlas, Neo4j, SQLite |
-| **Cloud & DevOps** | AWS (Lambda, API Gateway, ECS, RDS, DynamoDB, EC2, IAM, VPC), Kubernetes, Terraform, Docker, Jenkins, GitOps, JFrog Artifactory |
-| **Messaging** | Apache Kafka, AWS SQS, AWS SNS |
-| **Testing & Monitoring** | JUnit, Mockito, Postman, Load Testing, Splunk, Dynatrace, Root Cause Analysis |
-| **Tools & AI** | Git, GitHub, Maven, Linux, Ollama (Mistral, Llama 3) |
+| **Languages** | Java, Python, JavaScript, TypeScript, SQL |
+| **Backend & APIs** | Spring Boot, Spring Security, JPA, Node.js, Express.js, Flask, REST, GraphQL |
+| **Frontend** | Angular, HTML, CSS, Streamlit |
+| **Databases** | MySQL, MongoDB Atlas, Neo4j, SQLite, DynamoDB |
+| **Cloud & DevOps** | AWS, Docker, Kubernetes, Terraform, Jenkins, Maven, Git, GitHub |
+| **Messaging & Testing** | Kafka, AWS SQS/SNS, JUnit, Mockito, Postman |
+| **Monitoring & AI** | Splunk, Dynatrace, Ollama (Mistral, Llama 3) |
 
-## 🚀 Featured Projects
+### 💼 Experience Highlights
 
-### [E-Commerce Web Application](https://github.com/KushalNagendraKurala99/Ecommerce_Website)
-Full-stack e-commerce application developed during my Anudip Foundation internship, with customer, product, order, and delivery date-slot management.
+**Software Engineer (Contract) · Fifth Third Bank (Client)** | Jun 2025 – Present  
+- Contribute to Java/Spring Boot and Node.js APIs and Angular interfaces on a banking platform handling approximately **1 million requests per day**.
+- Supported team CI/CD improvements that reduced deployment time from several hours to approximately **36 minutes**.
+- Investigated production issues and supported post-conversion remediation for approximately **600,000 customer accounts**, including SQL analysis and data validation.
 
-**Tech:** `Java` `Spring Boot` `Angular` `MySQL` `REST APIs`
+**Software Engineer · Wipro** | Aug 2022 – Jul 2024  
+- Worked on **Flipkart** e-commerce services, AWS/Kubernetes environments, and release support.
+- Developed and supported **Bajaj Auto** enterprise applications using Java, Node.js, Angular, REST APIs, and MySQL.
 
-### [ShopAI: Multi-Role E-Commerce Platform](https://github.com/KushalNagendraKurala99/AI_Assisted_Ecommerce_Website_Java)
-E-commerce platform for **customers, sellers, and admins**, backed by a normalized **9+ table MySQL schema**. Includes seller approval workflows, item-level order tracking and history, and a local LLM assistant for natural-language store queries.
+**Java Full Stack & Web Design Programming Intern · Anudip Foundation** | Dec 2021 – Apr 2022  
+- Built Java/Spring Boot CRUD APIs and a full-stack e-commerce training application.
 
-**Tech:** `Python` `Flask` `MySQL` `Ollama (Mistral)` `HTML/CSS/JavaScript`
+### 🚀 Featured Projects
 
-### [Expense Management System](https://github.com/KushalNagendraKurala99/expense-management-system)
-Multi-user expense tracker with authentication, transaction CRUD, and natural-language commands that turn everyday expense descriptions into structured actions.
+**[ShopAI — Multi-Role E-Commerce Platform](https://github.com/KushalNagendraKurala99/AI_Assisted_Ecommerce_Website_Java)**  
+Customer, seller, and admin workflows, seller approvals, order tracking, and a locally hosted LLM assistant for store-data queries.  
+`Python` `Flask` `MySQL` `Ollama`
 
-**Tech:** `Python` `Streamlit` `SQLite` `Ollama (Llama 3)` `Pandas`
+**[Java E-Commerce Web Application](https://github.com/KushalNagendraKurala99/Ecommerce_Website)**  
+Customer, product, and order management with delivery-slot selection and REST API integration.  
+`Java` `Spring Boot` `Angular` `MySQL`
 
-### [Movie Graph Explorer](https://github.com/KushalNagendraKurala99/movie-graph-explorer)
-GraphQL application for exploring an **IMDb movie graph in Neo4j**, with a CSV import pipeline and a Streamlit interface for natural-language queries.
+**[Expense Management System](https://github.com/KushalNagendraKurala99/expense-management-system)**  
+Multi-user transaction tracking and natural-language commands for recording and updating expenses.  
+`Python` `Streamlit` `SQLite` `Ollama`
 
-**Tech:** `Node.js` `Apollo Server` `Neo4j` `GraphQL` `Streamlit` `Ollama`
+**[Movie Graph Explorer](https://github.com/KushalNagendraKurala99/movie-graph-explorer)**  
+Explore relationships between movies, actors, directors, and genres with Neo4j, GraphQL, and natural-language queries.  
+`Node.js` `Apollo Server` `Neo4j` `GraphQL`
 
-### [Netflix GraphQL Chatbot](https://github.com/KushalNagendraKurala99/netflix-graphql-chatbot)
-Chat-driven application that translates plain-English requests into **GraphQL queries and mutations** to view and manage Netflix show records.
+**[Netflix GraphQL Chatbot](https://github.com/KushalNagendraKurala99/netflix-graphql-chatbot)**  
+Convert plain-English requests into GraphQL queries and mutations for a Netflix dataset.  
+`Node.js` `Apollo Server` `GraphQL` `Streamlit`
 
-**Tech:** `Node.js` `Express.js` `Apollo Server` `GraphQL` `Streamlit`
+**More projects:** [Star Wars GraphQL & NLP Explorer](https://github.com/KushalNagendraKurala99/PROGRAMMING_ASSIGNMENT1) · [CPU Scheduling Algorithm Simulator](https://github.com/KushalNagendraKurala99/SchedulingAlgorithms)
 
-### [Star Wars GraphQL & NLP Explorer](https://github.com/KushalNagendraKurala99/PROGRAMMING_ASSIGNMENT1)
-GraphQL and natural-language interface for querying and managing Star Wars character and species data stored in MongoDB Atlas.
+### 🎓 Education
 
-**Tech:** `Python` `Flask` `Ariadne` `GraphQL` `MongoDB Atlas` `Streamlit` `Ollama`
+- **M.S. in Computer Science** — University of Central Missouri (2026)
+- **B.Tech in Electronics & Communication Engineering** — Narsimha Reddy Engineering College (2023)
 
-### [CPU Scheduling Algorithm Simulator](https://github.com/KushalNagendraKurala99/SchedulingAlgorithms)
-Java implementation of **FCFS, SJF, Round Robin, and Priority Scheduling**, with Gantt chart output and waiting/turnaround time metrics.
+### 🤝 Let's Connect
 
-**Tech:** `Java` `Operating Systems` `Algorithms`
+I'm interested in **Java full-stack, backend, and software engineering opportunities**, as well as connecting with people building cloud-native and AI-assisted applications.
 
-## 🎓 Education
-
-- **Master of Science in Computer Science** — University of Central Missouri (2024–2026)
-- **Bachelor of Technology in Electronics and Communication Engineering** — Narsimha Reddy Engineering College (2019–2023)
-
-## 📚 Training & Coursework
-
-- **Java Masterclass** — Udemy 
-- **Advanced Program in Web Designing** — Anudip Foundation
-- **Graduate coursework:** Data Structures & Algorithms, Advanced Database Systems, Advanced Operating Systems, Introduction to Cloud Computing (AWS Academy Cloud Foundations)
-
-## 🤝 Connect With Me
-
-I'm interested in connecting with developers and engineering teams working on **Java, distributed systems, cloud engineering, and AI-assisted applications**.
-
-- **LinkedIn:** [kushal-nagendra-kurala-481855235](https://www.linkedin.com/in/kushal-nagendra-kurala-481855235/)
-- **Email:** [kuralakushal174@gmail.com](mailto:kuralakushal174@gmail.com)
-- **GitHub:** [KushalNagendraKurala99](https://github.com/KushalNagendraKurala99)
+[**LinkedIn**](https://www.linkedin.com/in/kushal-nagendra-kurala-481855235/) · [**Email**](mailto:kuralakushal174@gmail.com) · [**GitHub**](https://github.com/KushalNagendraKurala99)
